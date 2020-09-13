@@ -1,1 +1,1 @@
-// block & scope 
+// block & scope variables
