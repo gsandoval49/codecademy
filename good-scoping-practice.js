@@ -4,9 +4,9 @@ const logVisibleLightWaves = () => {
   // Add if statement here:
   if (region === 'The Arctic') {
     let lightWaves = 'Northern Lights';
-    console.log(lightWaves);  
+    console.log(lightWaves);  //outputs Northern Lights
   }
-  console.log(lightWaves);  
+  console.log(lightWaves);  //outputs Moonlight
 };
 
 logVisibleLightWaves();
